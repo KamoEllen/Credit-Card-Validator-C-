@@ -16,3 +16,5 @@ If the total is divisible by 10, the number is considered valid.
 For more detailed information, you can check out the following Wikipedia page:
 
 https://en.wikipedia.org/wiki/Luhn_algorithm
+
+![Alt Text](https://github.com/KamoEllen/Credit-Card-Validator-C-/blob/main/Screenshot%20from%202023-02-05%2010-16-32.png)
