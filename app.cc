@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+#include <algorithm> // error code (error: ‘reverse’ was not declared in this scope) ,fixed (from terminal)
 using namespace std;
 
 int main()
